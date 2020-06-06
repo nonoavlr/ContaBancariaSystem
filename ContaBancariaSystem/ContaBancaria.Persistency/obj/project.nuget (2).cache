@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nj1/s/gO9UD4+UXkJIWSNXDWL3L31jOMdTHct9PpZMrmE7vLeGUxftUdReC1nUOuHX9Qq9yz1zVs+YROIFuNnw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\LC\\Conta\\ContaBancaria\\ContaCorrente.Persistency\\ContaCorrente.Persistency.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nohanlisboa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

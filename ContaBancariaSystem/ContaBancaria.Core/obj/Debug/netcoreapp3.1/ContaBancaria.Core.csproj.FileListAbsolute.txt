@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\bin\Debug\netcoreapp3.1\ContaBancaria.Core.deps.json
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\bin\Debug\netcoreapp3.1\ContaBancaria.Core.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\bin\Debug\netcoreapp3.1\ContaBancaria.Core.pdb
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\obj\Debug\netcoreapp3.1\ContaBancaria.Core.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\obj\Debug\netcoreapp3.1\ContaBancaria.Core.AssemblyInfo.cs
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\obj\Debug\netcoreapp3.1\ContaBancaria.Core.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\obj\Debug\netcoreapp3.1\ContaBancaria.Core.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\obj\Debug\netcoreapp3.1\ContaBancaria.Core.pdb
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Core\obj\Debug\netcoreapp3.1\ContaBancaria.Core.csprojAssemblyReference.cache

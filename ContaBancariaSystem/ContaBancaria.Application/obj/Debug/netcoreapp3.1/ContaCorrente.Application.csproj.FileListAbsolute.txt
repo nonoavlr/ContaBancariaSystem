@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaCorrente.Application\bin\Debug\netcoreapp3.1\ContaBancaria.Core.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaCorrente.Application\obj\Debug\netcoreapp3.1\ContaCorrente.Application.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaCorrente.Application\obj\Debug\netcoreapp3.1\ContaCorrente.Application.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaCorrente.Application\obj\Debug\netcoreapp3.1\ContaCorrente.Application.AssemblyInfo.cs

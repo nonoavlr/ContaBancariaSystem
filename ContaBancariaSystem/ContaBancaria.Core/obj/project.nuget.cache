@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5O+HGKoyv5yMsSPmeVWRYf12a+5HXmNGoVOvQS3QQmjr2of+bV6v0fYc04lk5iO2c5sTj+6VqYOrlAVQHm1Mzw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\LC\\ContaBancariaSystem\\ContaBancaria\\ContaBancaria.Core\\ContaBancaria.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nohanlisboa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

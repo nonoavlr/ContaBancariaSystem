@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Persistency.deps.json
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Persistency.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Persistency.pdb
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Application.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Core.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Application.pdb
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Core.pdb
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\obj\Debug\netcoreapp3.1\ContaBancaria.Persistency.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\obj\Debug\netcoreapp3.1\ContaBancaria.Persistency.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\obj\Debug\netcoreapp3.1\ContaBancaria.Persistency.AssemblyInfo.cs
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\obj\Debug\netcoreapp3.1\ContaBancaria.Persistency.csproj.CopyComplete
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\obj\Debug\netcoreapp3.1\ContaBancaria.Persistency.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\obj\Debug\netcoreapp3.1\ContaBancaria.Persistency.pdb
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Persistency.runtimeconfig.json
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\bin\Debug\netcoreapp3.1\ContaBancaria.Persistency.runtimeconfig.dev.json
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\obj\Debug\netcoreapp3.1\ContaBancaria.Persistency.genruntimeconfig.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\ContaBancaria.Persistency\obj\Debug\netcoreapp3.1\ContaBancaria.Persistency.csproj.CoreCompileInputs.cache

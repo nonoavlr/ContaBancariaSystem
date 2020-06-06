@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\bin\Debug\netcoreapp3.1\JsonWebToken.deps.json
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\bin\Debug\netcoreapp3.1\JsonWebToken.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\bin\Debug\netcoreapp3.1\JsonWebToken.pdb
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\obj\Debug\netcoreapp3.1\JsonWebToken.csprojAssemblyReference.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\obj\Debug\netcoreapp3.1\JsonWebToken.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\obj\Debug\netcoreapp3.1\JsonWebToken.AssemblyInfo.cs
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\obj\Debug\netcoreapp3.1\JsonWebToken.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\obj\Debug\netcoreapp3.1\JsonWebToken.dll
+\\Mac\Home\Documents\LC\Conta\ContaBancaria\JsonWebToken\obj\Debug\netcoreapp3.1\JsonWebToken.pdb
